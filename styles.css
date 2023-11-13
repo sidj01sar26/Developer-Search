@@ -403,3 +403,17 @@ body {
         width: 65%;
     }
 }
+
+@media (max-width: 768px) {
+    .btn-search {
+        min-width: 7%;
+    }
+
+    .searchbar-container {
+        margin-bottom: 30px;
+    }
+
+    .title1 {
+        margin-top: 38px;
+    }
+}
