@@ -7,8 +7,9 @@ The application is built using HTML, CSS, and JavaScript, and it utilizes the Gi
 ## Features
 
     - Search GitHub users by their username.
-    - View the user's profile information, including their Avatar, Name, Bio, Repositories, Followers, Following, Location,
-      Personal/Professional Website, Twitter Handle, and Company.
+    - View the user's profile information, including their Avatar, Name, Bio, Repositories, 
+      Followers, Following, Location, Personal/Professional Website, Twitter Handle, 
+      and Company.
     - Click on a repository for more details like the repository name, description, and the number of stars.
 
 ## Getting Started
